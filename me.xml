@@ -1,0 +1,15 @@
+<person id="1">
+<name type="firstname">Sobitkhon</name>
+<name type="lastname">Khoshimov</name>
+<age>20<age>
+
+</person>
+<person.id="2">
+<name. type="firstname">Mustafo</name>
+<name.type="lastname">Khoshimov</name>
+<age>20</age>
+</person>
+<relations.type="friends">
+<id>1<id>
+<id>2</id>
+</relations>
